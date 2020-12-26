@@ -1,2 +1,3 @@
 # Python
-Anything about Python programing language (maybe)
+
+note : pip install windows-curses
